@@ -1,6 +1,4 @@
- 
 function solution(str, ending){
-  let stringLength = ending.length
   
-  console.log(stringLength)
+  console.log(str.slice(`-${ending.length}`));
 }
