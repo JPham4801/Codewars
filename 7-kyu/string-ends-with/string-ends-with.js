@@ -1,3 +1,4 @@
+ 
 function solution(str, ending){
-  console.log("Test")
+  console.log(`This is ${ending.length}`)
 }
