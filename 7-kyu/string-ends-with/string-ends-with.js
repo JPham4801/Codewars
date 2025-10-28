@@ -1,4 +1,6 @@
  
 function solution(str, ending){
-  console.log(`This is ${ending.length}`)
+  let stringLength = ending.length
+  
+  console.log(stringLength)
 }
