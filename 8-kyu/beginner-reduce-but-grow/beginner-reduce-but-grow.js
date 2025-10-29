@@ -1,3 +1,4 @@
+ 
 function grow(x){
-  console.log(x)
+  return x.reduce((a,b) => a*b)
 }
