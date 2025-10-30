@@ -1,4 +1,3 @@
- 
 function printerError(s) {
   let param = /[^a-m]/g;
   
