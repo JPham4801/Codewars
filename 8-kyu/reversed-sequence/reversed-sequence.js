@@ -1,4 +1,3 @@
- 
 const reverseSeq = n => {
   let arr = [];
   
