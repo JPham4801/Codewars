@@ -1,3 +1,4 @@
+ 
 /*
 We want to be able to call 'toJadenCase()' directly on a string like so:
 'most trees are blue'.toJadenCase(); // returns 'Most Trees Are Blue'
