@@ -1,3 +1,4 @@
+ 
 function removeSmallest(numbers) {
   let num = numbers.slice()
   let pos = num.indexOf(Math.min(...numbers))
