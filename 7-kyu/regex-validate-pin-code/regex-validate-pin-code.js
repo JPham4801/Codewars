@@ -1,4 +1,4 @@
  
 function validatePIN (pin) {
-  console.log(pin)
+  return (pin.length === 4 || pin.length === 6) && (/^\d+$/.test(pin))
 }
